@@ -49,7 +49,7 @@ Web3 Jobs and Talent Aggregator built on Stacks <br>
 * Achieved growth through consistent, original content creation and strategic engagement.
 
 ### **SkyNet Secure Solutions**
-*Web Developer* (Remote)                                                                                                                                                       June 2022 \- July 2022
+*Web Developer* (Remote) &nbsp;|&nbsp; June 2022 \- July 2022
 
 * Implemented responsive, mobile-first websites, mobile applications, and landing pages from concept through deployment using HTML, Sass, Bootstrap, React and Node.js  
 * Built a Personal Portfolio for a Web3 Marketing Professional. Increasing their client landing and outreach possibilities. [Visit Website](https://pankajdalmia.netlify.app/)   
