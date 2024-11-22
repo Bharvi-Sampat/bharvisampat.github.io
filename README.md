@@ -4,7 +4,7 @@ Full-stack marketer building bera narratives and an engaged community. Part of B
 
 ## **Work Experience**  
 
-### [**Vara Network**](https://vara.network) **& [Gear Protocol](https://gear-tech.io/)** <br> 
+### [**Vara Network**](https://vara.network) **& [Gear Protocol](https://gear-tech.io/)**
 A decentralized layer-1 network built and running on top of substrate-based Gear Protocol.<br>
 *Community Growth Lead & Social Media Manager* (Remote) &nbsp;|&nbsp; July 2023 \- October 2024
 
@@ -17,7 +17,7 @@ A decentralized layer-1 network built and running on top of substrate-based Gear
 * Managed and grew Telegram Community **from 23** **Monthly Active Users (MAU) to an avg of 307 MAU** over 12 months.  
 * Scaled Discord community to **13,500 new members** with a **40% increase in member retention.**
 
-### [**WagMedia**](https://thewagmedia.com/) <br>
+### [**WagMedia**](https://thewagmedia.com/)
 Decentralized editorial and incubation hub offering media solutions through a Create-2-Earn model for content creators. <br>
 *Marketing Consultant* (Remote) &nbsp;|&nbsp; September 2022 \- June 2023
 
@@ -29,7 +29,7 @@ Decentralized editorial and incubation hub offering media solutions through a Cr
 * Held bi-weekly reviews to assess performance, measure results, and adjust strategies as needed.
 
 
-### [**Metaschool**](https://metaschool.so/) <br> 
+### [**Metaschool**](https://metaschool.so/)  
 A Web3 and AI Ed-tech for developers focused on project-based courses. <br>
 *Content Marketer*  (Remote) &nbsp;|&nbsp; September 2022 \- May 2023
 
@@ -40,7 +40,7 @@ A Web3 and AI Ed-tech for developers focused on project-based courses. <br>
 * Improved **organic traffic to 70,000 views** over 6 months through Google Trends, Keyword search, and SEO best practices.  
 * Established media connections with **Twitter KOLs, and YouTube influencers, generated 30+ leads** at India Blockchain Week.
 
-### [**HireVibes**](https://www.hirevibes.com/) <br> 
+### [**HireVibes**](https://www.hirevibes.com/)
 Web3 Jobs and Talent Aggregator built on Stacks <br> 
 *Social Media Manager* (Part-time Remote) &nbsp;|&nbsp; February 2023 \- May 2023
 
@@ -48,7 +48,7 @@ Web3 Jobs and Talent Aggregator built on Stacks <br>
 * Leveraged social media analytics to optimize posting strategies, resulting in a **50% increase in engagement**.  
 * Achieved growth through consistent, original content creation and strategic engagement.
 
-### **SkyNet Secure Solutions** <br>
+### **SkyNet Secure Solutions**
 *Web Developer* (Remote)                                                                                                                                                       June 2022 \- July 2022
 
 * Implemented responsive, mobile-first websites, mobile applications, and landing pages from concept through deployment using HTML, Sass, Bootstrap, React and Node.js  
