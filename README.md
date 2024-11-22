@@ -85,7 +85,7 @@ Validation Number: 7XGG3RYLGBE41X32
 ### [**SEO for Websites and Wordpress**](https://www.udemy.com/certificate/UC-64d03fea-94c3-444a-b6a2-61fdea827ec9/) (2024)  
 Specialized in WordPress SEO, including keyword research, on-page/off-page techniques, content optimization, and performance analysis to boost rankings and user experience.
 
-### **Bachelor of Commerce** (2018-2021) <br>
+### **Bachelor of Commerce** (2018-2021)
 Graduated with a Bachelor of Commerce from Narsee Monjee College, focused on business, accounting, finance, marketing, and media. and user experience.  
 
 ## **Skills**  
